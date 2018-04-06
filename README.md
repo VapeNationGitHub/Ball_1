@@ -1,6 +1,6 @@
 
-Program execution example:
-![img](https://i.imgur.com/9sR5pfl.png)
+Пример изображения программы:
+![img](https://i.imgur.com/Pl7T99B.png)
 
 Данные:<br>
 t1: Высота = 7,19999980926513700000 , Скорость = 2,00000000000000000000 <br>
